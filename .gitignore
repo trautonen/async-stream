@@ -1,0 +1,14 @@
+dist/
+node_modules/
+cdk.out/
+coverage/
+__pycache__/
+
+
+npm-debug.log*
+
+.env.local
+
+.DS_Store
+*.pem
+**/*.http
